@@ -6,7 +6,6 @@ Analyze trends in American baby names from 1920 to 2020 using SQL and data visua
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Scenario and Problem Statement](#scenario-and-problem-statement)
 - [Dataset Description](#dataset-description)
 - [Actions and Approach](#actions-and-approach)
@@ -17,12 +16,6 @@ Analyze trends in American baby names from 1920 to 2020 using SQL and data visua
 - [Future Work](#future-work)
 - [Acknowledgement](#acknowledgement)
 - [Contact Information](#contact-information)
-
----
-
-## Introduction
-
-This repository investigates the evolution of baby name popularity in the United States from 1920 to 2020. By querying and visualizing the data, we uncover naming trends, identify names that have remained popular, and distinguish between "classic" and "trendy" names.
 
 ---
 
