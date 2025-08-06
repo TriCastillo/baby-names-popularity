@@ -144,6 +144,7 @@ LIMIT 5;
 
 ## Acknowledgement
 
+- Data provided by the [United States Social Security Administration](https://www.ssa.gov/oact/babynames/).
 - Problem statements and/or datasets in this project were sourced from [DataCamp](https://www.datacamp.com/) real-world projects.
 
 ---
